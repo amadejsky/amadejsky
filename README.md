@@ -46,10 +46,11 @@ dedication to continuous improvement, will contribute to the success of your com
     <a href=https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Typescript_logo_2020.svg.png" alt="Typescript" width="50" height="50"/></a> 
     <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="50"                        height="50"/></a>
     <a href="https://firebase.google.com/brand-guidelines/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/firebase_logo_shot.png" alt="Firebase" width="130" height="50"/></a>
+         <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/wire.jpeg" alt="Wireshark" width="50" height="50"/></a>
 </p>
-        <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/wire.jpeg" alt="Wireshark" width="50" height="50"/></a>
+       
         
-    <hr>
+   
 <p>
    
 </p>
