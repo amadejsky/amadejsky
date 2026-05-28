@@ -15,7 +15,7 @@
 <h3 align="center">
 Combining almost ---- of industry experience as a Software Developer with 3 years of academic project work at John Paul II Catholic University of Lublin, I have developed a versatile skill set in Java development and microservices architecture. My background includes building robust systems like the Microservices Parcel Manager using Spring Boot, Spring Cloud, and RabbitMQ, as well as creating full-stack applications like Medical System or Green Energy Around Me with Angular and third-party APIs. I thrive on delivering efficient, high-quality code that meets both technical and business requirements.
 <br><br>
-🔴 This gives me confidence that what I have learned through my studies and projects, combined with my dedication to continuous improvement, will contribute to the success of your company.
+
 </h3>
 
 <br>
